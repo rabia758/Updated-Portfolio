@@ -6,13 +6,13 @@ Passionate about Data Science, Deep Learning, and Artificial Intelligence with o
 ---
 
 ## 🌐 Portfolio  
-[https://rabiarizwan.netlify.app/](https://mirzayasirbaig.netlify.app/)
+[https://updated-portfolio-opal-sigma.vercel.app/](https://updated-portfolio-opal-sigma.vercel.app/)
 
 ## 💻 GitHub  
-[https://github.com/rabia758](https://github.com/mirzayasirabdullahbaig07)
+[https://github.com/rabia758](https://github.com/rabia758)
 
 ## 🔗 LinkedIn  
-[https://www.linkedin.com/in/rabia-rizwan/](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)
+[https://www.linkedin.com/in/rabia-rizwan/](https://www.linkedin.com/in/rabia-rizwan/)
 
 ---
 
